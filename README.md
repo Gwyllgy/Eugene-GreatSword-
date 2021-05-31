@@ -1,10 +1,11 @@
-# BRAVE HEART 
+# <h2>What is this?  
 
-*This is **EUGENE'S** weapon from **GUARDIAN TALES**
-
-
-
+  
+This is **EUGENE'S** weapon from **GUARDIAN TALES**. A personnal project made in **BLENDER**.Nothing serious
 
 
 
->i used blender to make this for testing projects in unity @octocat:+1:
+
+
+
+
